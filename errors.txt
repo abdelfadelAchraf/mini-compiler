@@ -1,0 +1,9 @@
+Erreur Lexicale en ligne 3 : 'entrer' n'existe pas dans le dictionnaire de la langue.
+Erreur Lexicale en ligne 3 : 'une' n'existe pas dans le dictionnaire de la langue.
+Erreur Lexicale en ligne 3 : 'valeur' n'existe pas dans le dictionnaire de la langue.
+Erreur Lexicale en ligne 5 : 'alors' n'existe pas dans le dictionnaire de la langue.
+Erreur Lexicale en ligne 6 : 'valeur' n'existe pas dans le dictionnaire de la langue.
+Erreur Lexicale en ligne 6 : 'negative' n'existe pas dans le dictionnaire de la langue.
+Erreur Lexicale en ligne 7 : 'sinon' n'existe pas dans le dictionnaire de la langue.
+Erreur Lexicale en ligne 8 : 'valeur' n'existe pas dans le dictionnaire de la langue.
+Erreur Lexicale en ligne 8 : 'positive' n'existe pas dans le dictionnaire de la langue.

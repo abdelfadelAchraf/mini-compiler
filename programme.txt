@@ -1,0 +1,10 @@
+debut :
+var A : Entier;
+ecrire("entrer une valeur");
+lire(A);
+Si B  == 0 alors
+ecrire("valeur negative");
+sinon 
+ecrire("valeur positive");
+FinSi
+Fin .
