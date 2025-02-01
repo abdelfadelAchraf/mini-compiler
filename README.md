@@ -4,7 +4,9 @@ Welcome to the **Lexical and Syntax Analyzer** project! This C program is design
 
 The analyzer identifies errors in the source code and generates a comprehensive report in `errors.txt`. This project is useful for understanding the basics of language processing, including tokenization, syntax validation, and error handling.
 
----
+
+![Chaîne_de_compilation](https://github.com/user-attachments/assets/f6fc6643-980f-4b25-9c41-13a53d21289f)
+
 
 ## 🚀 Features
 
